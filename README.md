@@ -1,3 +1,9 @@
+
+
+<p align="center">
+  <img src="https://github.com/TKECH1/SDPFinal/blob/main/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA2.png" alt="logo">
+</p>
+
 # E-COMMERCE - Final Project
 
 This is the repository for the final project of the "Software Design Patterns" course (SE-2226). 
@@ -28,8 +34,9 @@ Project Overview
 
 ## UML Diagram
 
-![UML Diagram](https://github.com/TKECH1/SDPFinal/blob/main/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1.png)
-
+<p align="center">
+  <img src="https://github.com/TKECH1/SDPFinal/blob/main/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1.png" alt="uml">
+</p>
 ---
 
 ## Features / Design Patterns
@@ -241,4 +248,4 @@ The code for the project is available on GitHub: [SDPFinal](https://github.com/T
 
 ## References
 
-[APA citation](https://refactoring.guru/design-patterns)https://refactoring.guru/design-patterns
+[https://refactoring.guru/design-patterns](https://refactoring.guru/design-patterns)
